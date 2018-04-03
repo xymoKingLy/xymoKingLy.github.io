@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: xymo`blog
+subtitle: Talk is cheap. Show me the code！
+description: Become a better person and be sure to know who you arebefore meeting someone nes and hoping that person knows who you are！
 keywords:
-author: John Doe
-language:
+author: xymo
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
