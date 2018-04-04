@@ -1,5 +1,5 @@
 ---
-title: init blog by hexo
+title: Init Blog By Hexo
 date: 2018-04-04 01:53:15
 tags: 
 - hexo
